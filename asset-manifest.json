@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/snack-master-website/static/js/main.6ee61da8.js",
+    "main.css": "/snack-master-website/static/css/main.02db52b8.css",
+    "main.js": "/snack-master-website/static/js/main.435d78b1.js",
     "index.html": "/snack-master-website/index.html",
-    "main.6ee61da8.js.map": "/snack-master-website/static/js/main.6ee61da8.js.map"
+    "main.02db52b8.css.map": "/snack-master-website/static/css/main.02db52b8.css.map",
+    "main.435d78b1.js.map": "/snack-master-website/static/js/main.435d78b1.js.map"
   },
   "entrypoints": [
-    "static/js/main.6ee61da8.js"
+    "static/css/main.02db52b8.css",
+    "static/js/main.435d78b1.js"
   ]
 }
