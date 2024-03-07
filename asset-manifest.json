@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/snack-master-website/static/js/main.6ee61da8.js",
+    "index.html": "/snack-master-website/index.html",
+    "main.6ee61da8.js.map": "/snack-master-website/static/js/main.6ee61da8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6ee61da8.js"
+  ]
+}
