@@ -1,0 +1,39 @@
+nav {
+    background-color: #333;
+    padding: 10px 0;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  li {
+    display: inline;
+  }
+  
+  li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-flex;
+  }
+  
+  li a:hover {
+    background-color: #555;
+  }
+  
+  @media (max-width: 768px) {
+    li {
+      display: block;
+      margin-bottom: 10px;
+    }
+  
+    li a {
+      display: block;
+      padding: 10px 0;
+    }
+  }
+  
