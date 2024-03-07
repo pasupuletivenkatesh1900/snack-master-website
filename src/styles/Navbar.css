@@ -1,39 +1,58 @@
 nav {
-    background-color: #333;
-    padding: 10px 0;
-  }
-  
-  ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-  }
-  
+  background-color: purple;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  margin: 0;
+  display: flex;
+  align-items: center;  /* Optional: centers content vertically */
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: right;  /* Aligns links to the right */
+}
+
+/* Assuming you have an image for the logo */
+.logo {
+  width: 50px; /* Adjust width as needed */
+  height: 50px; /* Adjust height as needed */
+  border-radius: 50%; /* Makes the logo round */
+  margin-right: 10px; /* Add some space between logo and text */
+  /* Removed text-align: center;  (not needed here) */
+}
+
+li {
+  display: inline-block;
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  display: inline-flex;
+}
+
+li a:hover {
+  background-color: rgb(148, 54, 148);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+@media (max-width: 768px) {
   li {
-    display: inline;
+    display: block;
+    margin-bottom: 10px;
   }
-  
+
   li a {
-    color: white;
-    text-decoration: none;
-    padding: 10px 20px;
-    display: inline-flex;
+    display: block;
+    padding: 10px 20px; /* Adjust padding as needed */
   }
-  
-  li a:hover {
-    background-color: #555;
-  }
-  
-  @media (max-width: 768px) {
-    li {
-      display: block;
-      margin-bottom: 10px;
-    }
-  
-    li a {
-      display: block;
-      padding: 10px 0;
-    }
-  }
-  
+}
