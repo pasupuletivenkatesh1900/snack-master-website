@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/snack-master-website/static/css/main.2182d6d1.css",
-    "main.js": "/snack-master-website/static/js/main.73d7d3d2.js",
+    "main.css": "/snack-master-website/static/css/main.968672eb.css",
+    "main.js": "/snack-master-website/static/js/main.6f49c741.js",
     "static/media/home.jpg": "/snack-master-website/static/media/home.67c21257b269856073cb.jpg",
     "static/media/home2.jpg": "/snack-master-website/static/media/home2.72179b9137e30a8671a9.jpg",
     "static/media/logo.jpeg": "/snack-master-website/static/media/logo.5374668a755b00a5df10.jpeg",
     "static/media/whatsapp.png": "/snack-master-website/static/media/whatsapp.651ccec2428542505b8b.png",
     "static/media/ceo.jpg": "/snack-master-website/static/media/ceo.02e80111690db2f6ac61.jpg",
     "index.html": "/snack-master-website/index.html",
-    "main.2182d6d1.css.map": "/snack-master-website/static/css/main.2182d6d1.css.map",
-    "main.73d7d3d2.js.map": "/snack-master-website/static/js/main.73d7d3d2.js.map"
+    "main.968672eb.css.map": "/snack-master-website/static/css/main.968672eb.css.map",
+    "main.6f49c741.js.map": "/snack-master-website/static/js/main.6f49c741.js.map"
   },
   "entrypoints": [
-    "static/css/main.2182d6d1.css",
-    "static/js/main.73d7d3d2.js"
+    "static/css/main.968672eb.css",
+    "static/js/main.6f49c741.js"
   ]
 }
