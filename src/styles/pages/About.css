@@ -1,0 +1,34 @@
+/* About.css */
+
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .ceo-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .ceo-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; /* Make the image round */
+    margin-right: 20px;
+  }
+  
+  .ceo-description {
+    width: 70%;
+  }
+  
+  .ceo-description h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .ceo-description p {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  

@@ -9,6 +9,7 @@ function Navbar() {
             <Link to="/">
                 <img src={logo} alt="Snack Master Logo" className="navbar-logo" />
             </Link>
+            <h1>Snack Master</h1>
             <ul className="navbar-links">
                 <li><Link to="/">Home</Link></li>
                 <li><Link to="/about">About</Link></li>
