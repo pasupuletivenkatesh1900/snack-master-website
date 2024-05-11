@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/snack-master-website/static/css/main.968672eb.css",
-    "main.js": "/snack-master-website/static/js/main.c1dc1ab7.js",
-    "static/media/home.jpg": "/snack-master-website/static/media/home.67c21257b269856073cb.jpg",
-    "static/media/home2.jpg": "/snack-master-website/static/media/home2.72179b9137e30a8671a9.jpg",
-    "static/media/logo.jpeg": "/snack-master-website/static/media/logo.5374668a755b00a5df10.jpeg",
-    "static/media/whatsapp.png": "/snack-master-website/static/media/whatsapp.651ccec2428542505b8b.png",
-    "static/media/ceo.jpg": "/snack-master-website/static/media/ceo.02e80111690db2f6ac61.jpg",
-    "index.html": "/snack-master-website/index.html",
-    "main.968672eb.css.map": "/snack-master-website/static/css/main.968672eb.css.map",
-    "main.c1dc1ab7.js.map": "/snack-master-website/static/js/main.c1dc1ab7.js.map"
+    "main.css": "/snack-master-websites/static/css/main.968672eb.css",
+    "main.js": "/snack-master-websites/static/js/main.3e22c703.js",
+    "static/media/home.jpg": "/snack-master-websites/static/media/home.67c21257b269856073cb.jpg",
+    "static/media/home2.jpg": "/snack-master-websites/static/media/home2.72179b9137e30a8671a9.jpg",
+    "static/media/logo.jpeg": "/snack-master-websites/static/media/logo.5374668a755b00a5df10.jpeg",
+    "static/media/whatsapp.png": "/snack-master-websites/static/media/whatsapp.651ccec2428542505b8b.png",
+    "static/media/ceo.jpg": "/snack-master-websites/static/media/ceo.02e80111690db2f6ac61.jpg",
+    "index.html": "/snack-master-websites/index.html",
+    "main.968672eb.css.map": "/snack-master-websites/static/css/main.968672eb.css.map",
+    "main.3e22c703.js.map": "/snack-master-websites/static/js/main.3e22c703.js.map"
   },
   "entrypoints": [
     "static/css/main.968672eb.css",
-    "static/js/main.c1dc1ab7.js"
+    "static/js/main.3e22c703.js"
   ]
 }
