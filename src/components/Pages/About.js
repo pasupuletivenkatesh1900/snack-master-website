@@ -9,11 +9,7 @@ function About() {
         <img src={CEOImage} alt="CEO" className="ceo-image" />
         <div className="ceo-description">
           <h2>CEO Venkatesh</h2>
-          <p>
-            CEO Description: Lorem ipsum dolor sit amet, consectetur adipiscing
-            elit. Sed do eiusmod tempor incididunt ut labore et dolore magna
-            aliqua.
-          </p>
+          <p>CEO Description: umbrella</p>
           <p>Phone: +1234567890</p>
           <p>Email: ceo@example.com</p>
         </div>
